@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon SQL error involving a subquery in the FROM clause and a potential NULL value handling issue.  The `bug.sql` file contains the erroneous code.  The `bugSolution.sql` file provides a corrected and more robust version.
